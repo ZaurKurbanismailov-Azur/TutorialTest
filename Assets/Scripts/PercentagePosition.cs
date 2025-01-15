@@ -4,8 +4,6 @@ namespace DefaultNamespace
 {
     public class PercentagePosition : MonoBehaviour
     {
-        public Transform target;
-        
-        
+        public Vector2 percentage;
     }
 }
